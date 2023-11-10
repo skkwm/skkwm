@@ -8,7 +8,7 @@
 ![Skkwm's GitHub Top languages](https://github-readme-stats.vercel.app/api?username=skkwm&theme=vision-friendly-dark&show_icons=true&size=200)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlstjd993)](https://solved.ac/{})
+wlstjd993](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlstjd993)](https://solved.ac/{})
 <!--
 **skkwm/skkwm** is a ✨ _special_ ✨ repository because its `.md` (this file) appears on your GitHub profile.
 
