@@ -7,7 +7,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=270&section=header&animation=blinking&text=The%20World&fontSize=90)
 ![Skkwm's GitHub Top languages](https://github-readme-stats.vercel.app/api?username=skkwm&theme=vision-friendly-dark&show_icons=true&size=200)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={https://www.acmicpc.net/user/wlstjd993e})](https://solved.ac/{https://www.acmicpc.net/user/wlstjd993})
 <!--
 **skkwm/skkwm** is a ✨ _special_ ✨ repository because its `.md` (this file) appears on your GitHub profile.
 
