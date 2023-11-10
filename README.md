@@ -2,7 +2,7 @@
 i'm junior
 -------
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=270&section=header&animation=blinking&text=The%20World&fontSize=90)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlignY=20)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
 <!--
 **skkwm/skkwm** is a ✨ _special_ ✨ repository because its `.md` (this file) appears on your GitHub profile.
 
