@@ -3,6 +3,7 @@ i'm junior
 -------
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=the world%25render&fontSize=90" />
 ![header](https://capsule-render.vercel.app/api?text=theworld_render&animation=blinking2.0s)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
 <!--
 **skkwm/skkwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
