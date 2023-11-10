@@ -8,7 +8,7 @@
 ![Skkwm's GitHub Top languages](https://github-readme-stats.vercel.app/api?username=skkwm&theme=vision-friendly-dark&show_icons=true&size=200)
 python manage.py runserver
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+wlstjd993](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{wlstjd993})
 <!--
 **skkwm/skkwm** is a ✨ _special_ ✨ repository because its `.md` (this file) appears on your GitHub profile.
 
