@@ -9,7 +9,7 @@
 poetry install             
 poetry shell               
 python manage.py runserver
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj="wlstjd993")](https://solved.ac/{https://www.acmicpc.net/user/wlstjd993})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj="wlstjd993")](https://solved.ac/https://www.acmicpc.net/user/wlstjd993)
 <!--
 **skkwm/skkwm** is a ✨ _special_ ✨ repository because its `.md` (this file) appears on your GitHub profile.
 
