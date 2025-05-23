@@ -1,4 +1,4 @@
-### Hellow there 👋  
+### Hellow  👋  
 * * *
 <span style="color:blue">*i'm junior*</span>
 
