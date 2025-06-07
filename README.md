@@ -1,6 +1,6 @@
 ### Hellow  👋  
 * * *
-<span style="color:blue">*i'm junior*</span>
+<span style="color:blue">*hi*</span>
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=270&section=header&animation=blinking&text=The%20World&fontSize=90)
