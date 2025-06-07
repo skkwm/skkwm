@@ -2,8 +2,6 @@
 * * *
 <span style="color:blue">*hi*</span>
 
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=270&section=header&animation=blinking&text=The%20World&fontSize=90)
 ![Skkwm's GitHub Top languages](https://github-readme-stats.vercel.app/api?username=skkwm&theme=vision-friendly-dark&show_icons=true&size=200)
 
 <!--
